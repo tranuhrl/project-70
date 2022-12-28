@@ -1,0 +1,31 @@
+body
+{
+    background: linear-gradient(#bffdff, #8ca7ff)
+}
+#video
+{
+    width:100%;
+    height:500px;
+    border:none;
+}
+.nav-inverse
+{
+    background-color: black;
+    position:sticky
+}
+img
+{
+    width:500px;
+}
+.travel_mainDiv
+{
+    border : 1px solid lightgray;
+}
+.travel_mainDiv img
+{
+    width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p
+{
+    margin: 20px;
+}
